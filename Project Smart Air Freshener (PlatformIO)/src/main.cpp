@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6yypVJXVs"
-#define BLYNK_TEMPLATE_NAME "SmartSpray"
-#define BLYNK_AUTH_TOKEN "D6b_dLWhhMktuDoAl9Vm5tA2NZZN1BGZ"
+#define BLYNK_TEMPLATE_ID "(id template)"
+#define BLYNK_TEMPLATE_NAME "(nama template)"
+#define BLYNK_AUTH_TOKEN "(blynk auth tokenmu)"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -14,12 +14,12 @@
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-String botToken = "7877132934:AAGYGir2xtz7ACkkZg6jh_ZS40DfviuEjkA"; // Token dari BotFather
-String chatID = "8070797176";
+String botToken = "(bot tokenmu)"; // Token dari BotFather
+String chatID = "(id akunmu)";
 
-char auth[] = "D6b_dLWhhMktuDoAl9Vm5tA2NZZN1BGZ";
-char ssid[] = "Fnetwork";
-char pass[] = "passwordnyalupa";
+char auth[] = "(blynk auth tokenmu)";
+char ssid[] = "(ssid WiFimu)";
+char pass[] = "(password WiFimu)";
 
 // Pin Konfigurasi
 #define EEPROM_SIZE 32
