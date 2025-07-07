@@ -1,5 +1,8 @@
 # Smart-Air-Freshener
-Selamat datang di GitHub Smart Air Freshener
+
+![IMG_20250625_170907](https://github.com/user-attachments/assets/5febf683-5d84-45f7-8a18-75ac2353cd23)
+
+Selamat datang di GitHub IoT Based Smart Air Freshener
 Kenyamanan dalam ruangan sangat dipengaruhi oleh kualitas udara, termasuk aroma yang tercium oleh penghuni. Udara yang segar dan wangi dapat menciptakan suasana yang lebih menyenangkan dan meningkatkan produktivitas, baik di rumah, kantor, maupun ruang publik. Oleh karena itu, penggunaan air freshener sudah menjadi hal yang umum dalam kehidupan sehari-hari.
 
 Namun, kebanyakan air freshener yang beredar di pasaran masih bersifat manual atau hanya menyemprot secara berkala tanpa mempertimbangkan kondisi aktual di lingkungan sekitar. Hal ini bisa menyebabkan pemborosan cairan pewangi, kurangnya fleksibilitas, dan ketergantungan pada interaksi pengguna.
